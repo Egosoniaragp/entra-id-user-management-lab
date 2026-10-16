@@ -24,3 +24,9 @@ Microsoft Entra Admin Center | Microsoft 365 Admin Center
 #MicrosoftEntra #EntraID #IAM #AzureAD #Microsoft365
 
 # entra-id-user-management-lab
+## Screenshots - Lab Evidence
+
+![My Account - MOD Administrator](./MOD-Admin-MyAccount.png)
+![User Administrator Assignments](./User-Admin-PIM.png)
+![Add Assignments - Eligible](./Add-Assignments-Eligible.png)
+![SSPR Success](./SSPR-Success.png)
